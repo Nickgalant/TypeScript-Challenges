@@ -1,0 +1,27 @@
+{
+  "name": "typescript-challenges",
+  "version": "1.0.0",
+  "description": "Mentorship TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickgalant/TypeScript-Challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickgalant/TypeScript-Challenges/issues"
+  },
+  "homepage": "https://github.com/Nickgalant/TypeScript-Challenges#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
